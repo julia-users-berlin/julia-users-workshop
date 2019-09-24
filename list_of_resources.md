@@ -10,6 +10,10 @@ Official material: https://julialang.org/learning/
 - http://www.stochasticlifestyle.com/why-numba-and-cython-are-not-substitutes-for-julia/
 - https://giordano.github.io/blog/2017-11-03-rock-paper-scissors/ ( multiple dispatch )
 
+# Lectures
+
+- https://lectures.quantecon.org/jl/
+
 # Workshop-Material
 
 ## Administrative Scripting
