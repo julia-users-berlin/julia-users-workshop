@@ -2,6 +2,10 @@
 
 Official material: https://julialang.org/learning/
 
+# Lectures
+
+- https://lectures.quantecon.org/jl/
+
 # Blogs
 
 - https://nextjournal.com/sdanisch/julia-gpu-programming
@@ -9,10 +13,6 @@ Official material: https://julialang.org/learning/
 - http://lostella.github.io/2018/07/25/iterative-methods-done-right.html
 - http://www.stochasticlifestyle.com/why-numba-and-cython-are-not-substitutes-for-julia/
 - https://giordano.github.io/blog/2017-11-03-rock-paper-scissors/ ( multiple dispatch )
-
-# Lectures
-
-- https://lectures.quantecon.org/jl/
 
 # Workshop-Material
 
