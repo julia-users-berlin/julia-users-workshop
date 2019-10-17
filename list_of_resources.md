@@ -44,6 +44,7 @@ Official material: https://julialang.org/learning/
 
 ## Courses
 
+- https://juliabyexample.helpmanual.io/
 - https://github.com/wellesley-bisc195
 - https://github.com/mfalt/juliacourse
 
