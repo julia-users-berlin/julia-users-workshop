@@ -1,7 +1,11 @@
-Julia-Users-Group Fall Workshop
+# Julia-Users-Group Fall Workshop
+
+## Date and Place
 November 23rd, 2019
+
 10 am - 4 pm Co-Up, 3rd floor, Adalbertstr. 7-8, 810999 Berlin-Kreuzberg
 
+## About
 This workshop is for everybody who is interested in learning Julia all levels welcome.
 Pre-requirements: You read our Code of Conduct (http://www.opentechschool.org/code-of-conduct/) and appreciate the content.
 
@@ -28,6 +32,6 @@ but also speed is required.
 What is Julia made for? -- Julia is a general purpose language like Python, but it shines particularly when heavy computation is necessary
 and the alternatives are either to slow or require a lot of time to be implemented, e.g. data science, engineering, differential equations. Moreover, package development for Julia is rather convenient so that many scientists have switched to implement their packages in Julia.
 
-Will Julia be the future? -- According to the [Julia developer survey](https://julialang.org/images/2019-julia-user-developer-survey.pdf) Julia users are convinced it is.
+Will Julia be the future? -- According to the [Julia developer survey](https://julialang.org/images/2019-julia-user-developer-survey.pdf) Julia users are convinced it is, come and find out why.
 Julia reached version 1.0 in summer 2018 which indicates a stable programming experience and it is rapidly improving.
 
