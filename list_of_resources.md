@@ -26,7 +26,7 @@ Official material: https://julialang.org/learning/
 
 ## Natural Science
 
-- https://github.com/crstnbr/julia-workshop ( Physics )
+- https://github.com/crstnbr/JuliaWorkshop19 ( Physics )
 - https://github.com/mkborregaard/JuliaWorkshopIBS ( BioGeography )
 
 ## Financial Economics
