@@ -35,3 +35,4 @@ and the alternatives are either to slow or require a lot of time to be implement
 Will Julia be the future? -- According to the [Julia developer survey](https://julialang.org/images/2019-julia-user-developer-survey.pdf) Julia users are convinced it is, come and find out why.
 Julia reached version 1.0 in summer 2018 which indicates a stable programming experience and it is rapidly improving.
 
+Organized by julia-users-group Berlin (https://julia-users-berlin.github.io/)
