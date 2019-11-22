@@ -246,7 +246,7 @@ Note: apropos statistics, Douglas Bates, the developer of the `lme4` R package f
 
 Note: I've started using Julia about 4 years ago and never looked back.
 
-
+---
 
 <!-- .slide: data-background-color="#ffffff" -->
 
