@@ -1,0 +1,73 @@
+    OTS Beginner Workshop Julia, November 23,  2019 @ Co-Up 
+
+
+Agenda
+
+    Introduction Talk
+
+    Setup julia environments
+
+    Free work
+
+
+Getting started
+
+    Code of Conduct http://www.opentechschool.org/code-of-conduct/
+
+
+Resources: 
+
+    https://juliaacademy.com
+
+    https://github.com/JuliaComputing/JuliaBoxTutorials
+
+    https://github.com/JuliaComputing/JuliaAcademyMaterials
+
+    https://julialang.org/learning/
+
+    https://github.com/julia-users-berlin/julia-users-workshop/blob/master/list_of_resources.md
+
+
+Officials sources
+
+    Official documentation: https://docs.julialang.org/en/v1/index.html
+
+    Cheat sheet: https://juliadocs.github.io/Julia-Cheat-Sheet/
+
+    Official homepage: https://julialang.org
+
+
+Further stuff
+
+Julia IDEs:
+    
+
+    Juno https://junolab.org/ 
+
+    VS Code https://julia-vscode.org/
+
+    Jupyter https://github.com/JuliaLang/IJulia.jl
+
+
+Useful Links:
+
+     Julia: https://julialang.org/
+
+     Julia Documentation: https://docs.julialang.org/en/v1/
+
+     Julia Forums: https://discourse.julialang.org/
+
+     Julia Slack: http://julialang.slack.com/ (join the #berlinusergroup channel if you're interested)
+
+
+     Julia Users Group Berlin: http://julia-users-berlin.github.io/
+
+
+Real world projects:
+
+    https://github.com/BeastyBlacksmith/Flase.jl ( if you want to work on this talk to Simon )
+
+    Talk to us ;)
+
+
+Room for notes:
