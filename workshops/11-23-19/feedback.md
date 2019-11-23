@@ -10,4 +10,4 @@
 # Action list
  - more advertisement
  - create guided project
- 
+ - use static site instead of etherpad
