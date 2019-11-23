@@ -11,3 +11,4 @@
  - more advertisement
  - create guided project
  - use static site instead of etherpad
+ - create "aushang.pdf" with new logo, put it in main folder -> @pfitzseb
